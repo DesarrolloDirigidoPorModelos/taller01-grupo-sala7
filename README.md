@@ -1,3 +1,9 @@
+# Desarrollado por:
+
+* Byron Giovanny Cholca Campués
+
+* Freddy Alexander Chamorro Encalada
+
 # taller01
 
 * El proceso para la resolución de problemáticas
