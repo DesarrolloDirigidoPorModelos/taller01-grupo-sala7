@@ -7,3 +7,6 @@
 
 ## PSM
 ![alt text](https://raw.githubusercontent.com/DesarrolloDirigidoPorModelos/taller01-grupo-sala7/main/problematica3/umple.png)
+
+## CODIGO
+![alt text](https://raw.githubusercontent.com/DesarrolloDirigidoPorModelos/taller01-grupo-sala7/main/problematica3/codigo-ejecucion.png)
