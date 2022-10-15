@@ -6,4 +6,4 @@
 ![alt text](https://raw.githubusercontent.com/DesarrolloDirigidoPorModelos/taller01-grupo-sala7/main/problematica3/diagrama-dominio.png)
 
 ## PSM
-![alt text](https://raw.githubusercontent.com/DesarrolloDirigidoPorModelos/taller01-grupo-sala7/main/problematica3/diagrama-dominio.png)
+![alt text](https://raw.githubusercontent.com/DesarrolloDirigidoPorModelos/taller01-grupo-sala7/main/problematica3/umple.png)
